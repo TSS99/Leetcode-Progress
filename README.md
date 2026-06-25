@@ -10,6 +10,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TSS99/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/TSS99/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TSS99/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/TSS99/Leetcode-Progress/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0118-pascals-triangle](https://github.com/TSS99/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TSS99/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/TSS99/Leetcode-Progress/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
