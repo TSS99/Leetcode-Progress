@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TSS99/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TSS99/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/TSS99/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TSS99/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/TSS99/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
