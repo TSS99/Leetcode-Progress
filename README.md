@@ -6,6 +6,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/TSS99/Leetcode-Progress/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/TSS99/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TSS99/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/TSS99/Leetcode-Progress/tree/master/0118-pascals-triangle) |
@@ -44,4 +45,20 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0136-single-number](https://github.com/TSS99/Leetcode-Progress/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/TSS99/Leetcode-Progress/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/TSS99/Leetcode-Progress/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/TSS99/Leetcode-Progress/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/TSS99/Leetcode-Progress/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
