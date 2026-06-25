@@ -6,6 +6,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/TSS99/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/TSS99/Leetcode-Progress/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/TSS99/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TSS99/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -61,4 +62,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0079-word-search](https://github.com/TSS99/Leetcode-Progress/tree/master/0079-word-search) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/TSS99/Leetcode-Progress/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
