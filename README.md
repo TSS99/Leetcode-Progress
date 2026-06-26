@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TSS99/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/TSS99/Leetcode-Progress/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TSS99/Leetcode-Progress/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TSS99/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [2404-most-frequent-even-element](https://github.com/TSS99/Leetcode-Progress/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TSS99/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/TSS99/Leetcode-Progress/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TSS99/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TSS99/Leetcode-Progress/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TSS99/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [2404-most-frequent-even-element](https://github.com/TSS99/Leetcode-Progress/tree/master/2404-most-frequent-even-element) |
 ## Counting
 |  |
