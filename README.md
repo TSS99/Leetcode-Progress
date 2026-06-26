@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TSS99/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/TSS99/Leetcode-Progress/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TSS99/Leetcode-Progress/tree/master/0169-majority-element) |
+| [2404-most-frequent-even-element](https://github.com/TSS99/Leetcode-Progress/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,8 +73,10 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TSS99/Leetcode-Progress/tree/master/0169-majority-element) |
+| [2404-most-frequent-even-element](https://github.com/TSS99/Leetcode-Progress/tree/master/2404-most-frequent-even-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TSS99/Leetcode-Progress/tree/master/0169-majority-element) |
+| [2404-most-frequent-even-element](https://github.com/TSS99/Leetcode-Progress/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
