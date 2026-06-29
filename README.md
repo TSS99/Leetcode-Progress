@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/TSS99/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TSS99/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/TSS99/Leetcode-Progress/tree/master/0228-summary-ranges) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TSS99/Leetcode-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/TSS99/Leetcode-Progress/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/TSS99/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TSS99/Leetcode-Progress/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TSS99/Leetcode-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/TSS99/Leetcode-Progress/tree/master/2404-most-frequent-even-element) |
 ## Counting
 |  |
