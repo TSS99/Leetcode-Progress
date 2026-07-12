@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TSS99/Leetcode-Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/TSS99/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/TSS99/Leetcode-Progress/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/TSS99/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
@@ -37,6 +38,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TSS99/Leetcode-Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TSS99/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/TSS99/Leetcode-Progress/tree/master/0169-majority-element) |
 ## Tree
@@ -46,6 +48,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TSS99/Leetcode-Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TSS99/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/TSS99/Leetcode-Progress/tree/master/0268-missing-number) |
 ## Binary Tree
