@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TSS99/Leetcode-Progress/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/TSS99/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/TSS99/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/TSS99/Leetcode-Progress/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/TSS99/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
@@ -68,6 +69,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/TSS99/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/TSS99/Leetcode-Progress/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -113,4 +115,8 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/TSS99/Leetcode-Progress/tree/master/0303-range-sum-query-immutable) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/TSS99/Leetcode-Progress/tree/master/3427-sum-of-variable-length-subarrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/TSS99/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
