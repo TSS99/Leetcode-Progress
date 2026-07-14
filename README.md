@@ -86,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TSS99/Leetcode-Progress/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/TSS99/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/TSS99/Leetcode-Progress/tree/master/0268-missing-number) |
 ## Hash Table
@@ -119,4 +120,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TSS99/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TSS99/Leetcode-Progress/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TSS99/Leetcode-Progress/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
