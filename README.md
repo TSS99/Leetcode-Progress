@@ -7,6 +7,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TSS99/Leetcode-Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/TSS99/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/TSS99/Leetcode-Progress/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/TSS99/Leetcode-Progress/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/TSS99/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/TSS99/Leetcode-Progress/tree/master/0079-word-search) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TSS99/Leetcode-Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/TSS99/Leetcode-Progress/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/TSS99/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/TSS99/Leetcode-Progress/tree/master/0283-move-zeroes) |
 ## Sorting
