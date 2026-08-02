@@ -73,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TSS99/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/TSS99/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TSS99/Leetcode-Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/TSS99/Leetcode-Progress/tree/master/0079-word-search) |
@@ -98,6 +99,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TSS99/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/TSS99/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TSS99/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TSS99/Leetcode-Progress/tree/master/0219-contains-duplicate-ii) |
@@ -112,6 +114,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TSS99/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/TSS99/Leetcode-Progress/tree/master/0219-contains-duplicate-ii) |
 ## Design
 |  |
