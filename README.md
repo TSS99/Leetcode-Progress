@@ -78,6 +78,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/TSS99/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/TSS99/Leetcode-Progress/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/TSS99/Leetcode-Progress/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/TSS99/Leetcode-Progress/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TSS99/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TSS99/Leetcode-Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/TSS99/Leetcode-Progress/tree/master/0079-word-search) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/TSS99/Leetcode-Progress/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/TSS99/Leetcode-Progress/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/TSS99/Leetcode-Progress/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/TSS99/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/TSS99/Leetcode-Progress/tree/master/0268-missing-number) |
 ## Hash Table
@@ -106,6 +108,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TSS99/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/TSS99/Leetcode-Progress/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/TSS99/Leetcode-Progress/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/TSS99/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TSS99/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TSS99/Leetcode-Progress/tree/master/0219-contains-duplicate-ii) |
